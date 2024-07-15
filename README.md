@@ -1,0 +1,1 @@
+This is a repository for hosting assets (primarily fonts) for use in styles for [Homebrewery](https://homebrewery.naturalcrit.com).
